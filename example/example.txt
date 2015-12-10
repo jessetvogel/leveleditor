@@ -1,0 +1,17 @@
+<tile x="0" y="0" depth="0" res="house_red" width="5" height="7.5"/>
+<tile x="6" y="0" depth="0" res="house_green" width="5" height="7.5"/>
+<tile x="12" y="0" depth="0" res="house_blue" width="5" height="7.5"/>
+<tile x="1" y="-10" depth="0" res="tree" width="3" height="4"/>
+<tile x="13" y="-10" depth="0" res="tree" width="3" height="4"/>
+<tile x="7" y="-9" depth="0" res="tree" width="3" height="4"/>
+<tile x="-4" y="-4" depth="0" res="rock" width="3" height="2"/>
+<tile x="-4" y="-6" depth="0" res="tree" width="3" height="4"/>
+<tile x="18" y="-4" depth="0" res="rock" width="3" height="2"/>
+<tile x="18" y="-6" depth="0" res="tree" width="3" height="4"/>
+<tile x="18" y="-11" depth="0" res="lantern_three" width="2" height="4"/>
+<tile x="-3" y="-11" depth="0" res="lantern_three" width="2" height="4"/>
+<tile x="1" y="-8" depth="0" res="flowers" width="1" height="1"/>
+<tile x="5" y="-9" depth="0" res="flowers" width="1" height="1"/>
+<tile x="8" y="-8" depth="0" res="flowers" width="1" height="1"/>
+<tile x="11" y="-9" depth="0" res="flowers" width="1" height="1"/>
+<tile x="16" y="-9" depth="0" res="flowers" width="1" height="1"/>
