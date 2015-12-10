@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>untitled</title>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<script type="text/javascript" src="js/jquery.js"></script>
+		<script type="text/javascript" src="js/resources.js"></script>
+		<script type="text/javascript" src="js/objects.js"></script>
+		<script type="text/javascript" src="js/properties.js"></script>
+		<script type="text/javascript" src="js/saveload.js"></script>
+		<script type="text/javascript" src="js/script.js"></script>
+	</head>
+	<body>
+		<div id="grid"></div>
+		<div id="objects"></div>
+		
+		<div id="coordinates"></div>
+		
+		<div id="menu">
+			<span id="title">LEVEL EDITOR</span>
+			<div class="menuline"></div>
+									
+			<div id="typeInputContainer"><input value="tile" id="typeInput" /></div>
+			
+			<div class="menuline"></div>
+			
+			<div id="resourceSearch"><input placeholder="Search" value="" id="resourceSearchInput" /></div>
+			<div id="resources"></div>
+			
+			<div id="properties"><table></table></div>
+			
+			<div class="menuline"></div>
+			
+			<div id="resourceInputButton"><span>IMPORT</span><input type="file" id="resourceInput" name="files[]" multiple /></div>
+			<div id="save">SAVE</div>
+			<div id="load"><span>LOAD</span><input type="file" id="loadInput" name="files[]" /></div>
+			
+			<div style="height: 32px;"></div>
+		</div>
+	</body>
+</html>
